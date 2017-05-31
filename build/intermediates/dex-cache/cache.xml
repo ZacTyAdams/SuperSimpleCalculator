@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Zac-Work/AndroidStudioProjects/TestCalculator/app/libs/bsh-2.0b4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a05f0a0feefa8d8467ac80e16e7de071489f0d9c">
+        <dex dex="/Users/Zac-Work/AndroidStudioProjects/TestCalculator/app/build/intermediates/pre-dexed/release/bsh-2.0b4_c72c512d724a20e0f6d8846fd58fe3bbd7bfbe02.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zac-Work/AndroidStudioProjects/TestCalculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79c31ec6f72af2e9e026b1c83b27d514d2356c02">
+        <dex dex="/Users/Zac-Work/AndroidStudioProjects/TestCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1d49f16bb699ff5faaeeb99c988ad7d55bdc9ad9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zac-Work/AndroidStudioProjects/SuperSimpleCalculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Zac-Work/AndroidStudioProjects/SuperSimpleCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a613e3ae6ffaec6721366ff9383d08473264560d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zac-Work/AndroidStudioProjects/TestCalculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Zac-Work/AndroidStudioProjects/TestCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_25675957fb096e0dfedc3bc57fc0f66bec865c7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zac-Work/AndroidStudioProjects/SuperSimpleCalculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79535fec7579701ba32bbf83b64c6518b7a335dd">
+        <dex dex="/Users/Zac-Work/AndroidStudioProjects/SuperSimpleCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9695ebe43e3ce77041900ad35fa957ac058b35fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zac-Work/AndroidStudioProjects/TestCalculator/app/libs/bsh-2.0b4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a05f0a0feefa8d8467ac80e16e7de071489f0d9c">
+        <dex dex="/Users/Zac-Work/AndroidStudioProjects/TestCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/2/bsh-2.0b4_c72c512d724a20e0f6d8846fd58fe3bbd7bfbe02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zac-Work/AndroidStudioProjects/SuperSimpleCalculator/app/libs/bsh-2.0b4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a05f0a0feefa8d8467ac80e16e7de071489f0d9c">
+        <dex dex="/Users/Zac-Work/AndroidStudioProjects/SuperSimpleCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/2/bsh-2.0b4_7cf6dbe908d60c7b28f9b6aa5ea6962b415e39c3/classes.dex" />
+    </item>
+
+</items>
